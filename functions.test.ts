@@ -10,7 +10,4 @@ describe('shuffleArray should', () => {
         expect(shuffleArray.length === Array.length)
     })
 
-    // test('check item shuffling in array'. () => {
-    //     expect(shuffleArray.)
-    // })
 });
